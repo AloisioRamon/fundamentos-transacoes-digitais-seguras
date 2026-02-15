@@ -45,9 +45,8 @@ A IA foi utilizada como ferramenta de apoio para:
 
 ---
 
-## 🔗 Acesso ao Material
-👉 **NotebookLM:** *(https://notebooklm.google.com/notebook/a0df69dd-fc0d-4b7f-af06-4d7ba0c04af7)*  
-
+## 🔗 Acesso ao Material 
+[![NotebookLM](https://img.shields.io/badge/Acessar-NotebookLM-blue?style=for-the-badge&logo=google)](https://notebooklm.google.com/notebook/a0df69dd-fc0d-4b7f-af06-4d7ba0c04af7)
 ---
 
 ## 🚀 Sobre Mim
